@@ -9,13 +9,13 @@ GitHub. HW_2
 - Charles
 - Mobile testing
 
->git branch Postman
->git branch Jmeter
->git branch CheckLists
->git branch Bag_Reports
->git branch SQL
->git branch Charles
->git branch Mobile_testing
+>git branch Postman\
+>git branch Jmeter\
+>git branch CheckLists\
+>git branch Bag_Reports\
+>git branch SQL\
+>git branch Charles\
+>git branch Mobile_testing\
 
 2. Запушить все ветки на внешний репозиторий
 >git push origin --all
